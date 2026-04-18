@@ -16,10 +16,13 @@ This project was developed as part of a university practical assignment to demon
 - *Responsive CSS* – cyan & black theme with button hover effects
 
 # Technologies Used
-- ASP.NET Web Forms (.NET Framework 4.7.2) - Backend logic & server controls 
-- C# - Code‑behind event handling 
-- HTML5 / CSS3 - Structure and styling 
-- Visual Studio 2019 / 2022 - Development environment 
+
+Technology                     | Purpose
+-------------------------------|----------------------------------------------------
+ASP.NET Web Forms (.NET 4.7.2) | Backend logic & server controls
+C#                             | Code‑behind event handling
+HTML5 / CSS3                   | Structure and styling
+Visual Studio 2019 / 2022      | Development environment
 
 #Project Structure
 ├── Default.aspx # Web form markup (controls, validators, layout)
